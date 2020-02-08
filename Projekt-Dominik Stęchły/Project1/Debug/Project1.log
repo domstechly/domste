@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+C:\Users\Komp\Desktop\projekt\Project1\Project1\Źródło.cpp(151,8): warning C4551: wywołaniu funkcji brakuje listy argumentów
+C:\Users\Komp\Desktop\projekt\Project1\Project1\Źródło.cpp(220,217): warning C4101: "potrzebne": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Komp\Desktop\projekt\Project1\Project1\Źródło.cpp(114,123): warning C4101: "pdmg": lokalna zmienna, do której nie istnieje odwołanie
+  Project1.vcxproj -> C:\Users\Komp\Desktop\projekt\Project1\Debug\Project1.exe
